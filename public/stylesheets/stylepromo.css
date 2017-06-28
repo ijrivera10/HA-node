@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+a {
+  align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
