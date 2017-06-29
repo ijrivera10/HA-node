@@ -9,13 +9,26 @@ a {
 }
 
 h3 {
-  color: black;
+  color: white;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
 }
 
 h4 {
-  color: black;
+  color: white;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
 }
+
+#start {
+  display: block;
+   margin: auto;
+   width: 40%;
+
+
+}
+ .text  {
+   margin-top: 70px;
+
+
+ }
